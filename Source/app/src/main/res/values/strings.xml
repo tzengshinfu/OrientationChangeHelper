@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrientationChanger</string>
+    <string name="enable">啟用</string>
+    <string name="saveSetting">儲存設定</string>
+    <string name="delayShowNotice">延遲顯示</string>
+    <string name="second">秒提示開啟螢幕轉向功能</string>
+    <string name="claimPermission">本程式螢幕自動轉向控制功能必須開啟[修改系統設定]權限</string>
+    <string name="claimPermissionAgain">再次確認,本程式螢幕自動轉向控制功能必須開啟[修改系統設定]權限</string>
+    <string name="tip">提示</string>
+    <string name="askUserToChangeSetting">現在螢幕是鎖定直向,要變更?</string>
+    <string name="ok">好</string>
+    <string name="cancel">不用</string>
+    <string name="saveOK">儲存成功</string>
+</resources>
